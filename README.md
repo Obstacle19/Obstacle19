@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Obstacle19
-- 👀 I’m an undergraduate majoring in computer science and technology at Hunan University
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Yoo, I'm Obstacle19 👋
 
-<!---
-Obstacle19/Obstacle19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🍻 Junior at 🇨🇳 [HNU], _BSc in Computer Science_
+- ⚡ C++ / Python / Matlab.
+- 🖋 Writer at [CSDN](https://blog.csdn.net/obstacle19?type=blog)
+- ✍️ [Blogger](https://haysc.tech)
+- 🏃 Basketball / Badminton / Night Running / Cycling
