@@ -1,7 +1,7 @@
 # Yoo, I'm ShaoShuai 👋 ![](https://komarev.com/ghpvc/?username=Obstacle19&color=blue&style=flat-square)
 
-[![foru17 stats](https://github-readme-stats.vercel.app/api?username=Obstacle19&theme=dark&show_icons=true)](https://github.com/obstacle19)
-
+[![foru17 stats](https://github-readme-stats.vercel.app/api?username=Obstacle19&show_icons=true)](https://github.com/obstacle19)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obstacle19)](https://github.com/anuraghazra/github-readme-stats)
 ## Resume
 
 Click **[📝 HERE](https://obstacle19.github.io/)** to view my resume in detail.
