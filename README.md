@@ -1,6 +1,11 @@
 # Yoo, I'm ShaoShuai 👋 ![](https://komarev.com/ghpvc/?username=Obstacle19&color=blue&style=flat-square)
 
-[![Obstacle19 stats](https://github-readme-stats.vercel.app/api?username=Obstacle19&show_icons=true)](https://github.com/obstacle19)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Obstacle19/Obstacle19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Obstacle19/Obstacle19/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Resume
 
 Click **[📝 HERE](https://obstacle19.github.io/)** to view my resume in detail.
